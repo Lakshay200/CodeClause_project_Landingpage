@@ -1,0 +1,26 @@
+*{
+    font-family:montserrat;
+}
+.logo{
+    height: 48px;
+    width: 51px;
+    margin: 4px;
+}
+
+img{
+    height:450px;
+}
+.section-header text-center pb-5 h2{
+    margin:26px;
+}
+
+.flex-all-center {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    height:11vh;
+    background-color:black;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
